@@ -1,7 +1,7 @@
 # LipReading
 The following is an implementation of the paper [LipNet: End-to-End Sentence-level Lipreading](https://arxiv.org/pdf/1611.01599.pdf) in Tensorflow.
 
-![](assets/lipreading.png)
+![](assets/lipreading.gif)
 
 ## Introduction
 Building a machine learning model that's able to perform lip reading!
@@ -24,7 +24,3 @@ This model uses GRID corpus (http://spandh.dcs.shef.ac.uk/gridcorpus/)
 The following table shows the results from the paper:
 
 ![](assets/result.png)
-
-Here's an inference test:
-
-![](assets/inference.gif)
